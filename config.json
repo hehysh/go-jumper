@@ -1,10 +1,12 @@
 {
-    "sitename":"pai233の小站",
+    "sitename":"十贰的小窝",
     "allowlist": [
-        "pai233.top"
+        "hehysh.eu.org"
+        "nbplus.tk"
+        "nbplus.gq"
     ],
     "backTo": {
-        "url": "https://blog.pai233.top/",
-        "sitename": "pai233の小窝"
+        "url": "https://www.hehysh.eu.org/",
+        "sitename": "十贰的小窝"
     }
 }
